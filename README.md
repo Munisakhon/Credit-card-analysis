@@ -213,7 +213,7 @@ The main objective of this project is to support banks in identifying customers 
 
 # 👨‍💻 Author
 
-**Munisakhon Kurbanova, Maqsuda Abdijabborova, Nargiza Rahimova**
+**Munisakhon Kurbanova**
 
 Master's student
 
